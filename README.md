@@ -1,6 +1,6 @@
 # 2-Stage-Operational-Amplifier
 
-# Objectives: 
+# Objectives : 
 
 * Complete designs of 2 Stage OP Amps with specifications :
 * Open loop gain = 10^6 = 120dB
